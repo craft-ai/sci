@@ -1,0 +1,18 @@
+# Periodic split method: learning more readable decision trees for human activities (2017) #
+
+[_official permalink_](https://github.com/craft-ai/sci/blob/master/publications/2017-periodic-split-method-learning-more-readable-decision-trees-for-human-activities/)
+
+## Authors ##
+
+- Matthieu Boussard, <matthieu@craft.ai>
+- Clodéric Mars, <cloderic@craft.ai>
+- Rémi Dès, <remi@craft.ai>
+- Caroline Chopinaud, <caroline@craft.ai>
+
+## Abstract ##
+
+Placing your trust in algorithms is a major issue in society today. This article introduces a novel split method for decision tree generation algorithms aimed at improving the quality/readability ratio of generated decision trees. We focus on human activities learning that allow the definition of new temporal features. By virtue of these features, we present here the periodic split method, which produces similar or superior quality trees with reduced tree depth.
+
+## Keywords ##
+
+Machine Learning, Decision trees, Split, Temporal data, C4.5

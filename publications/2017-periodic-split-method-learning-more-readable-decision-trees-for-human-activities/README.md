@@ -1,6 +1,6 @@
 # Periodic split method: learning more readable decision trees for human activities (2017) #
 
-[_official permalink_](https://github.com/craft-ai/sci/blob/master/publications/2017-periodic-split-method-learning-more-readable-decision-trees-for-human-activities/)
+[_official permalink_](https://hal.archives-ouvertes.fr/APIA2017/hal-01561514)
 
 ## Authors ##
 

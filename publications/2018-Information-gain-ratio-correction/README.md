@@ -4,8 +4,8 @@
 
 ## Authors ##
 
-- Matthieu Boussard, <matthieu@craft.ai>
 - Antonin Leroux, <antonin.leroux@polytechnique.edu>
+- Matthieu Boussard, <matthieu@craft.ai>
 - Rémi Dès, <remi@craft.ai>
 
 ## Abstract ##

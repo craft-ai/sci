@@ -2,7 +2,7 @@
 
 ## Authors ##
 
-- Antonin Leroux, <<antonin.leroux@craft.ai>
+- Antonin Leroux, <antonin.leroux@craft.ai>
 - Matthieu Boussard, <matthieu@craft.ai>
 - Rémi Dès, <remi@craft.ai>
 

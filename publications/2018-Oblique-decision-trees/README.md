@@ -1,5 +1,7 @@
 # Inducing Readable Oblique Decision Trees (2018) #
 
+[_Official Permalink_](https://ieeexplore.ieee.org/document/8576067)
+
 ## Authors ##
 
 - Antonin Leroux, <antonin.leroux@craft.ai>

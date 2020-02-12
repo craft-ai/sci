@@ -1,6 +1,12 @@
 # Periodic split method: learning more readable decision trees for human activities (2017) #
 
-[_official permalink_](https://hal.archives-ouvertes.fr/APIA2017/hal-01561514)
+> Published in _Conférence Nationale sur les Applications Pratiques de l’Intelligence Artificielle (APIA)_.
+>
+> Presented at _Plate-forme Intelligence Artificielle (PFIA) in July 2017 in Caen, France_.
+>
+> [_HAL link_](https://hal.archives-ouvertes.fr/APIA2017/hal-01561514)
+>
+> [_Preprint_](2017-periodic-split-method-learning-more-readable-decision-trees-for-human-activities.pdf)
 
 ## Authors ##
 

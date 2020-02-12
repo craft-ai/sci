@@ -1,6 +1,12 @@
 # Forgetting Methods for White Box Learning (2016) #
 
-[_official permalink_](http://dx.doi.org/10.1007/978-3-319-40159-1_19)
+> Published in in _Trends in Practical Applications of Scalable Multi-Agent Systems, the PAAMS Collection_.
+>
+> Presented at _PAAMS 2016 : 14th International Conference on Practical Applications of Agents and Multiagent Systems in June 2016 in Seville, Spain.
+>
+> [_DOI link_](https://doi.org/10.1007/978-3-319-40159-1_19)
+>
+> [_Preprint_](2016-forgetting-methods-for-white-box-learning.pdf)
 
 ## Authors ##
 
